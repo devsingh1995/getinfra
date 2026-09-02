@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <!-- Blue gradient matching site hero -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    <!-- Emerald accent matching site hero text -->
+    <linearGradient id="dot" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded square background -->
+  <rect width="32" height="32" rx="7" fill="url(#bg)"/>
+
+  <!-- Letter G — bold, geometric, monospaced feel -->
+  <!-- Outer arc of G (top bar, left side, bottom bar) -->
+  <!-- We draw G as clean geometric shapes -->
+
+  <!-- Top horizontal bar of G -->
+  <rect x="10" y="8" width="12" height="3" rx="1.5" fill="white"/>
+
+  <!-- Left vertical bar of G -->
+  <rect x="10" y="8" width="3" height="16" rx="1.5" fill="white"/>
+
+  <!-- Bottom horizontal bar of G -->
+  <rect x="10" y="21" width="12" height="3" rx="1.5" fill="white"/>
+
+  <!-- Middle horizontal bar of G (the distinctive G crossbar) -->
+  <rect x="16" y="15.5" width="6" height="3" rx="1.5" fill="white"/>
+
+  <!-- Right vertical bar of G (bottom half only — makes the G shape) -->
+  <rect x="19" y="15.5" width="3" height="8.5" rx="1.5" fill="white"/>
+
+  <!-- Emerald dot — the "." in getInfra.cloud -->
+  <circle cx="26" cy="26" r="3" fill="url(#dot)"/>
+</svg>
