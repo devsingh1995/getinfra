@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  version="1.1"
+  viewBox="0 0 1171.2 238.45"
+  role="img"
+  aria-label="getInfra.cloud">
+  <title>getInfra.cloud</title>
+
+  <text
+    x="34"
+    y="151"
+    font-family="Inter, Arial, Helvetica, sans-serif"
+    font-size="138"
+    font-weight="800"
+    letter-spacing="-5"
+    fill="#ffffff">getInfra</text>
+
+  <circle
+    cx="612"
+    cy="133"
+    r="13"
+    fill="#3b82f6" />
+
+  <text
+    x="627"
+    y="151"
+    font-family="Inter, Arial, Helvetica, sans-serif"
+    font-size="138"
+    font-weight="500"
+    letter-spacing="-4"
+    fill="#d1d5db">cloud</text>
+</svg>
